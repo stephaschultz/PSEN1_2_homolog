@@ -51,7 +51,7 @@ data_merge_rmWT <- data_merge %>% filter (homolog !="3")
 data_merge_wide_rmWT <- data_merge_wide %>% filter (homolog.PSEN2 !="3")
 ```
 
-##  Supplemental Table 1 and Figure 1 Analyses
+## Supplemental Table 1 and Figure 1 Analyses
 
 ```{r}
 
